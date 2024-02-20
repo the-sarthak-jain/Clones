@@ -1,2 +1,1 @@
-# Clones
-Discover website clones in this folder.
+> Discover website clones in this folder.
